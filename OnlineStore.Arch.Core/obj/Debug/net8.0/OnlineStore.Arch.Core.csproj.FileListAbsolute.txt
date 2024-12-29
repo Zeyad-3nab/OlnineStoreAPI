@@ -1,0 +1,24 @@
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\bin\Debug\net8.0\OnlineStore.Arch.Core.deps.json
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\bin\Debug\net8.0\OnlineStore.Arch.Core.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\bin\Debug\net8.0\OnlineStore.Arch.Core.pdb
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.AssemblyInfoInputs.cache
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.AssemblyInfo.cs
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\refint\OnlineStore.Arch.Core.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.pdb
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\ref\OnlineStore.Arch.Core.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.csproj.AssemblyReference.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\bin\Debug\net8.0\OnlineStore.Arch.Core.deps.json
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\bin\Debug\net8.0\OnlineStore.Arch.Core.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\bin\Debug\net8.0\OnlineStore.Arch.Core.pdb
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.csproj.AssemblyReference.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.AssemblyInfoInputs.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.AssemblyInfo.cs
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.csproj.CoreCompileInputs.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\refint\OnlineStore.Arch.Core.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\OnlineStore.Arch.Core.pdb
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Core\obj\Debug\net8.0\ref\OnlineStore.Arch.Core.dll

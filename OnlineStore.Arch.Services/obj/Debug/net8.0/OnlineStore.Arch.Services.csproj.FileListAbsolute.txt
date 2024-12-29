@@ -1,0 +1,34 @@
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Services.deps.json
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Services.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Services.pdb
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Core.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Repository.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Repository.pdb
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Core.pdb
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.csproj.AssemblyReference.cache
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.AssemblyInfoInputs.cache
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.AssemblyInfo.cs
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineSt.F476F5B7.Up2Date
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\refint\OnlineStore.Arch.Services.dll
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.pdb
+C:\Users\Sherif\OneDrive\Desktop\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\ref\OnlineStore.Arch.Services.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Services.deps.json
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Services.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Services.pdb
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Core.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Repository.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Repository.pdb
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\bin\Debug\net8.0\OnlineStore.Arch.Core.pdb
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.csproj.AssemblyReference.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.AssemblyInfoInputs.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.AssemblyInfo.cs
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.csproj.CoreCompileInputs.cache
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineSt.F476F5B7.Up2Date
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\refint\OnlineStore.Arch.Services.dll
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\OnlineStore.Arch.Services.pdb
+D:\New folder\0nion Arch API\OnlineStore.Arch\OnlineStore.Arch.Services\obj\Debug\net8.0\ref\OnlineStore.Arch.Services.dll

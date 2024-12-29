@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.api\\onlinestore.arch.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|solutionrelative:onlinestore.arch.api\\onlinestore.arch.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\onlinestore.arch.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\onlinestore.arch.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\specifications\\products\\productspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\specifications\\products\\productspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA3DA5-3D8D-48CD-BDB4-99A3F182631C}|OnlineStore.Arch.Services\\OnlineStore.Arch.Services.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.services\\services\\products\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA3DA5-3D8D-48CD-BDB4-99A3F182631C}|OnlineStore.Arch.Services\\OnlineStore.Arch.Services.csproj|solutionrelative:onlinestore.arch.services\\services\\products\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\specifications\\products\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\specifications\\products\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|solutionrelative:onlinestore.arch.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\irepositories\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\irepositories\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\helper\\paginationresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\helper\\paginationresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\onlinestore.arch.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\onlinestore.arch.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|solutionrelative:onlinestore.arch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\mapping\\products\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\mapping\\products\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FD27C3B-4B56-43A8-A20C-D56B504C72B1}|OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj|solutionrelative:onlinestore.arch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\dtos\\productdto\\typebranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\dtos\\productdto\\typebranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\dtos\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\dtos\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\applicationdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\applicationdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\configrations\\productconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\configrations\\productconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\configrations\\producttypeconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\configrations\\producttypeconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\configrations\\productbrandconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\configrations\\productbrandconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC79F2-5DA0-4BD3-9AE5-0E0F0EB3530E}|OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj|solutionrelative:onlinestore.arch.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|d:\\new folder\\0nion arch api\\onlinestore.arch\\onlinestore.arch.repository\\data\\migrations\\20241009154059_addfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B6005-CDCD-44AC-A3A9-8E090EC05FB0}|OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj|solutionrelative:onlinestore.arch.repository\\data\\migrations\\20241009154059_addfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Repositories\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Repositories\\GenaricRepository.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Repositories\\GenaricRepository.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Repositories\\GenaricRepository.cs",
+              "ViewState": "AQIAADAAAAAAmpmZmZkpwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:49:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSpecifications.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\Products\\ProductSpecifications.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Specifications\\Products\\ProductSpecifications.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\Products\\ProductSpecifications.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Specifications\\Products\\ProductSpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:47:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Specifications\\ProductSpecParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:08:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineStore.Arch.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABEAAADgmZmZmZklwBcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:22:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineStore.Arch.Core.csproj",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\OnlineStore.Arch.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T12:18:20.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineStore.Arch.API.csproj",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj",
+              "RelativeToolTip": "OnlineStore.Arch.API\\OnlineStore.Arch.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T12:09:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Services\\Services\\Products\\ProductServices.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Services\\Services\\Products\\ProductServices.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Services\\Services\\Products\\ProductServices.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Services\\Services\\Products\\ProductServices.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:02:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductWithCountSpecification.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\Products\\ProductWithCountSpecification.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Specifications\\Products\\ProductWithCountSpecification.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\Products\\ProductWithCountSpecification.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Specifications\\Products\\ProductWithCountSpecification.cs",
+              "ViewState": "AQIAAAEAAADgMzMzMzMLwBEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:53:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Services\\IProductServices.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Services\\IProductServices.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Services\\IProductServices.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Services\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:31:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\IRepositories\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\IRepositories\\IGenaricRepository.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\IRepositories\\IGenaricRepository.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\IRepositories\\IGenaricRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:45:32.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Specifications\\ISpecification.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Specifications\\ISpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:58:57.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:10:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaginationResponce.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Helper\\PaginationResponce.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Helper\\PaginationResponce.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Helper\\PaginationResponce.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Helper\\PaginationResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:26:20.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:03:02.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OnlineStore.Arch.Repository.csproj",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\OnlineStore.Arch.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T12:19:31.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.API\\Program.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\Program.cs",
+              "RelativeToolTip": "OnlineStore.Arch.API\\Program.cs",
+              "ViewState": "AQIAADQAAAAAMjMzMzMLwEQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:46:36.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Mapping\\Products\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Mapping\\Products\\ProductProfile.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Mapping\\Products\\ProductProfile.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Mapping\\Products\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:49:07.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.API\\appsettings.json",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.API\\appsettings.json",
+              "RelativeToolTip": "OnlineStore.Arch.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:55:50.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\DTOs\\ProductDTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\DTOs\\ProductDTO\\ProductDTO.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\DTOs\\ProductDTO\\ProductDTO.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\DTOs\\ProductDTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:33:28.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TypeBrandDTO.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\DTOs\\ProductDTO\\TypeBrandDTO.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\DTOs\\ProductDTO\\TypeBrandDTO.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\DTOs\\ProductDTO\\TypeBrandDTO.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\DTOs\\ProductDTO\\TypeBrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:37:34.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:12:22.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\IRepositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\IRepositories\\IUnitOfWork.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\IRepositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\IRepositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:07:43.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Models\\Product.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAABgZmZmZmYkwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:20:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductBrandConfigration.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Configrations\\ProductBrandConfigration.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\Configrations\\ProductBrandConfigration.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Configrations\\ProductBrandConfigration.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\Configrations\\ProductBrandConfigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:41:55.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241009154059_AddFirstMigration.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Migrations\\20241009154059_AddFirstMigration.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\Migrations\\20241009154059_AddFirstMigration.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Migrations\\20241009154059_AddFirstMigration.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\Migrations\\20241009154059_AddFirstMigration.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:40:59.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContextSeed.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\ApplicationDbContextSeed.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\ApplicationDbContextSeed.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\ApplicationDbContextSeed.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\ApplicationDbContextSeed.cs",
+              "ViewState": "AQIAAAIAAABwZmZmZmYvwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:13:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductTypeConfigration.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Configrations\\ProductTypeConfigration.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\Configrations\\ProductTypeConfigration.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Configrations\\ProductTypeConfigration.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\Configrations\\ProductTypeConfigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:40:53.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductConfigration.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Configrations\\ProductConfigration.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\Configrations\\ProductConfigration.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Configrations\\ProductConfigration.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\Configrations\\ProductConfigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:35:07.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "products.json",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\DataSeed\\products.json",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\DataSeed\\products.json",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\DataSeed\\products.json",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\DataSeed\\products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T15:31:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Repository\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Repository\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Repository\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:29:55.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\BaseModel.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:25:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Models\\ProductBrand.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\ProductBrand.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Models\\ProductBrand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:22:43.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Arch.Core\\Models\\ProductType.cs",
+              "ToolTip": "D:\\New folder\\0nion Arch API\\OnlineStore.Arch\\OnlineStore.Arch.Core\\Models\\ProductType.cs",
+              "RelativeToolTip": "OnlineStore.Arch.Core\\Models\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:22:32.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
